@@ -3,7 +3,7 @@
 This repository contains the code for reproducing the experiments in:
 
 > **Coupling-Robust Accuracy in Multiphysics PINNs via Kronecker-Preconditioned Optimization**
-> Submitted to ICML 2026 Workshop (AI4Science / AI4Physics)
+> Submitted to ICML 2026 Workshop (AI4Physics)
 
 ## Overview
 
